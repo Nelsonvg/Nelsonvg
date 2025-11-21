@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hola, soy Nelson Fabian Vanegas
+### Ingeniero Industrial y Especialista en Big Data y Analisis de Datos | Python · SQL · R Studio · Power BI · Machine Learning
 
-<!--
-**Nelsonvg/Nelsonvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi portafolio profesional. Aquí encontrarás proyectos reales enfocados en:
 
-Here are some ideas to get you started:
+- 📊 Análisis de datos (retail, finanzas, mercados, calidad)
+- 🤖 Modelos de predicción de ventas
+- 📈 Creación de dashboards automáticos (Power BI)
+- 🗃️ ETL y automatización
+- 🧠 Machine Learning aplicado a negocio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Proyectos Destacados
+
+### 1. Forecast de ventas con Machine Learning
+📌 Predicción de ventas para industria retail usando Random Forest, Sarima, Regresión Lineal y otros.  
+🔧 Tecnologías: Python, Pandas, Scikit-Learn  
+📂 Repositorio: *(agregas el link cuando esté listo)*
+
+---
+
+### 2. Dashboard automático de ventas (Power BI)
+📌 Lectura diaria de archivos Excel + ETL + actualización.  
+🔧 Tecnologías: Power BI, Power Query  
+📂 Repositorio: *(link)*
+
+---
+
+### 3. Análisis de calidad del agua en Colombia
+📌 Limpieza, exploración y visualización de variables ambientales.  
+🔧 Tecnologías: Python, Seaborn, Jupyter  
+📂 Repositorio: *(link)*
+
+---
+
+### 4. Análisis de registro de vehículos híbridos en Colombia
+📌 Serie temporal + tendencias + proyección.  
+🔧 Tecnologías: Python, Pandas, Matplotlib  
+📂 Repositorio: *(link)*
+
+---
+
+## 📫 Contacto
+- **LinkedIn:** https://linkedin.com/in/nelson-vanegas
+- **Correo:** nefabiv@gmail.com  
