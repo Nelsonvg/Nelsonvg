@@ -1,7 +1,7 @@
 # 👋 Hola, soy Nelson Fabian Vanegas
-### Ingeniero Industrial y Especialista en Big Data y Analisis de Datos | Python · SQL · R Studio · Power BI · Machine Learning
+### **Ingeniero Industrial y Especialista en Big Data y Analisis de Datos** | Python · SQL · R Studio · Power BI · Machine Learning
 
-Bienvenido a mi portafolio profesional. Aquí encontrarás proyectos reales enfocados en:
+Bienvenido a mi portafolio profesional. Aquí encontrarás proyectos reales que reflejan mi capacidad para:
 
 - 📊 Análisis de datos (retail, finanzas, mercados, calidad)
 - 🤖 Modelos de predicción de ventas
@@ -9,6 +9,7 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás proyectos reales enfo
 - 🗃️ ETL y automatización
 - 🧠 Machine Learning aplicado a negocio
 
+Mi objetivo es **conectar la analítica avanzada con el valor de negocio**, asegurando que cada modelo, reporte o visualización sea útil, confiable y accionable.
 ---
 
 ## 🚀 Proyectos Destacados
