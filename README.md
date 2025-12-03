@@ -9,7 +9,7 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás proyectos reales que 
 - 🗃️ ETL y automatización
 - 🧠 Machine Learning aplicado a negocio
 
-Mi objetivo es **conectar la analítica avanzada con el valor de negocio**, asegurando que cada modelo, reporte o visualización sea útil, confiable y accionable.
+Mi objetivo es conectar la analítica avanzada con el valor de negocio, asegurando que cada modelo, reporte o visualización sea útil, confiable y accionable.
 ---
 
 ## 🚀 Proyectos Destacados
