@@ -23,7 +23,7 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás proyectos reales enfo
 ### 2. Dashboard automático de ventas (Power BI)
 📌 Lectura diaria de archivos Excel + ETL + actualización.  
 🔧 Tecnologías: Power BI, Power Query  
-📂 Repositorio: *(link)*
+📂 Repositorio: *(https://github.com/Nelsonvg/Nelsonvg/tree/main/Balance_Score)*
 
 ---
 
