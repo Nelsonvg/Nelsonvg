@@ -30,7 +30,7 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás proyectos reales enfo
 ### 3. Análisis de calidad del agua en Colombia
 📌 Limpieza, exploración y visualización de variables ambientales.  
 🔧 Tecnologías: Python, Seaborn, Jupyter  
-📂 Repositorio: *(https://github.com/Nelsonvg/Nelsonvg/tree/main/Balance_Score)*
+📂 Repositorio: *(https://github.com/Nelsonvg/Nelsonvg/tree/main/Calidad_Agua_Colombia)*
 
 ---
 
