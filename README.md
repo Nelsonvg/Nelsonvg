@@ -16,7 +16,7 @@ Bienvenido a mi portafolio profesional. Aquí encontrarás proyectos reales enfo
 ### 1. Forecast de ventas con Machine Learning
 📌 Predicción de ventas para industria retail usando Random Forest, Sarima, Regresión Lineal y otros.  
 🔧 Tecnologías: Python, Pandas, Scikit-Learn  
-📂 Repositorio: *(agregas el link cuando esté listo)*
+📂 Repositorio: *https://github.com/Nelsonvg/Nelsonvg/tree/main/Foresight_Comercial*
 
 ---
 
